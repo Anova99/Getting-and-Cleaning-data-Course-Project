@@ -1,8 +1,8 @@
 | | Variable | Type  | Range | Mean | Description |
-| :-------------| :------------- | :------------- | :------------- | :------------- | :------------- ||
-|1| "Subject ID"                  | "integer" | "1  /  30"                                                                      | "Not available"        | Subject who performed the activity for each window sample ||
-|2  | "Activity"                    | "factor"  | "LAYING / SITTING / STANDING / WALKING / WALKING_DOWNSTAIRS / WALKING_UPSTAIRS" | "Not available"        | Activity performed by the subjects wearing a smartphone (Samsung Galaxy S II) on the waist ||
-|3  | "tBodyAcc-mean()-X"           | "numeric" | "0.22159824394  /  0.3014610196"                                                | "0.274302742245795"    | Mean of time domain body acceleration signal of the X axis ||
+:-------------| :------------- | :------------- | :------------- | :------------- | :------------- |
+1| "Subject ID"                  | "integer" | "1  /  30"                                                                      | "Not available"        | Subject who performed the activity for each window sample ||
+2  | "Activity"                    | "factor"  | "LAYING / SITTING / STANDING / WALKING / WALKING_DOWNSTAIRS / WALKING_UPSTAIRS" | "Not available"        | Activity performed by the subjects wearing a smartphone (Samsung Galaxy S II) on the waist ||
+3  | "tBodyAcc-mean()-X"           | "numeric" | "0.22159824394  /  0.3014610196"                                                | "0.274302742245795"    | Mean of time domain body acceleration signal of the X axis ||
 |4  | "tBodyAcc-mean()-Y"           | "numeric" | "-0.0405139534294  /  -0.00130828765170213"                                     | "-0.0178755238674415"  | Mean of time domain body acceleration signal of the Y axis ||
 |5  | "tBodyAcc-mean()-Z"           | "numeric" | "-0.152513899520833  /  -0.07537846886"                                         | "-0.109163815804519"   | Mean of time domain body acceleration signal of the Z axis ||
 |6  | "tBodyAcc-std()-X"            | "numeric" | "-0.996068635384615  /  0.626917070512821"                                      | "-0.557690076404401"   | Standard deviation of time domain body acceleration signal of the X axis ||
