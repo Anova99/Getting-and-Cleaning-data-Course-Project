@@ -1,3 +1,5 @@
+# **CodeBook "tidy_df_2"**
+
 | | Variable | Type  | Range | Mean | Description |
  :-------------| :------------- | :------------- | :------------- | :------------- | :------------- |
 |1| "Subject ID"                  | "integer" | "1  /  30"                                                                      | "Not available"        | Subject who performed the activity for each window sample ||
